@@ -1,27 +1,29 @@
-[
-  {
-    "id": 1,
-    "name": "Sineka",
-    "age": "22"
-  },
-  {
-    "id": 2,
-    "name": "Kabi",
-    "age": "24"
-  },
-  {
-    "id": 3,
-    "name": "Ram",
-    "age": "23"
-  },
-  {
-    "id": 4,
-    "name": "lakshmi",
-    "age": "25"
-  },
-  {
-    "id": 5,
-    "name": "vishnu",
-    "age": "21"
-  }
-]
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Sineka",
+      "age": "22"
+    },
+    {
+      "id": 2,
+      "name": "Kabi",
+      "age": "24"
+    },
+    {
+      "id": 3,
+      "name": "Ram",
+      "age": "23"
+    },
+    {
+      "id": 4,
+      "name": "lakshmi",
+      "age": "25"
+    },
+    {
+      "id": 5,
+      "name": "vishnu",
+      "age": "21"
+    }
+  ]
+}
